@@ -1,0 +1,438 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:2:1-77:12
+INJECTED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:2:1-77:12
+INJECTED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:2:1-77:12
+INJECTED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:2:1-77:12
+MERGED from [com.android.volley:volley:1.1.1] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/c798daaddfd29a7bda6b1be97c9e070b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/042368c6f23e8347e11005cc3da58270/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-ads:17.2.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/9b710e51573c2c7bfbb022fa0ef7d7c0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/e62f6db15de1649f6de7bb36e40acc5a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:26.1.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/fdc8d683ba2c8cd9340b60993066c9c0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/25e3680af815cb09cec05b09657a6128/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-gass:17.2.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/28d7584bbbd01730a2715d2f7f882f92/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-base:17.2.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/b918aa76a2c63ad6cdb58cd8ca37dc28/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/4eaff4d8d727ff911578f97044cb6cc0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/30f69a612e173bd9df7575d513e9be98/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/bd9ed5e1e2ca5bd903d0546d250f5f30/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/0da8af325bfc129cef7a45ae76b297f9/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/954c42d5144449e746f8e5af73f4bc98/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/dbb595c352d7e8c334b19aaa6efa4c06/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/82983eaad513b700a96d6ec2df02c0d8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/d36321e4a69a090fbd24147d4619f80d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/b815e36f4a42a7a48ad07ecb2290ce8d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/cb4dceca27e37fedb02bc167e644208b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/b2b185f5902eec6895080263641320f4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/90f552a1b4088581894aa25f1cb629b1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/44dc12c33a67b49715206f2d8a197132/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/2ad2ea62709e6cf7256e1a4879f3e8fc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/9a8ba8ade48a6cb579df250abd94a7e7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/4b7e3319986b2dcdce70cdc2eb1d9ff1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/5ff9cdb26a6c8004dd82ee86550bb592/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/e1590b43851878b908607871a1fe59f8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/55ceb6691b986af2148df73ef9c15081/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/e02ee58485b217c326190ca1968fee46/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/e0eb667309a62b98e36b00a4a7b475c2/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/485c320b64c1aefc5aa452ae15964972/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/4d3a63e60a3f82c0e38dcf54a7d68e16/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/3966721c94617ccd749e7cfef103c3ce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/0e5a3b38bb39b3ea2e69a841a8c1af87/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/2ff03ce5f968fe3b1d47f443129f6f61/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/7e3be8b0adeea258b86378102300e354/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/5a6eb2acaa889f76c31b6b130b56b8a6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/298675b4814bcdcf1d78b9d4416ab3cf/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/7f7cf4e1c88df74ed05fef5f90f52487/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/312dfa91b221abc29fdffc60fa06ac0a/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:2:1-77:12
+INJECTED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:2:1-77:12
+INJECTED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:2:1-77:12
+	package
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:3:5-56
+		INJECTED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml
+	android:compileSdkVersionCodename
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:7:5-42
+	android:versionName
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:5:5-34
+		INJECTED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml
+	android:compileSdkVersion
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:6:5-35
+	xmlns:android
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:9:5-11:65
+	android:value
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:11:9-63
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:10:9-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/25e3680af815cb09cec05b09657a6128/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/25e3680af815cb09cec05b09657a6128/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/30f69a612e173bd9df7575d513e9be98/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/30f69a612e173bd9df7575d513e9be98/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:13:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/25e3680af815cb09cec05b09657a6128/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/25e3680af815cb09cec05b09657a6128/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/30f69a612e173bd9df7575d513e9be98/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/30f69a612e173bd9df7575d513e9be98/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:13:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:14:22-73
+application
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:16:5-75:19
+MERGED from [com.android.volley:volley:1.1.1] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/c798daaddfd29a7bda6b1be97c9e070b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/c798daaddfd29a7bda6b1be97c9e070b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/042368c6f23e8347e11005cc3da58270/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/042368c6f23e8347e11005cc3da58270/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:customtabs:26.1.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/fdc8d683ba2c8cd9340b60993066c9c0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/fdc8d683ba2c8cd9340b60993066c9c0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/25e3680af815cb09cec05b09657a6128/AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/25e3680af815cb09cec05b09657a6128/AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-gass:17.2.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/28d7584bbbd01730a2715d2f7f882f92/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:17.2.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/28d7584bbbd01730a2715d2f7f882f92/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:17.2.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/b918aa76a2c63ad6cdb58cd8ca37dc28/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:17.2.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/b918aa76a2c63ad6cdb58cd8ca37dc28/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/4eaff4d8d727ff911578f97044cb6cc0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/4eaff4d8d727ff911578f97044cb6cc0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/30f69a612e173bd9df7575d513e9be98/AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/30f69a612e173bd9df7575d513e9be98/AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/bd9ed5e1e2ca5bd903d0546d250f5f30/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/bd9ed5e1e2ca5bd903d0546d250f5f30/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/0da8af325bfc129cef7a45ae76b297f9/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/0da8af325bfc129cef7a45ae76b297f9/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/954c42d5144449e746f8e5af73f4bc98/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/954c42d5144449e746f8e5af73f4bc98/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/90f552a1b4088581894aa25f1cb629b1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/90f552a1b4088581894aa25f1cb629b1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/e02ee58485b217c326190ca1968fee46/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/e02ee58485b217c326190ca1968fee46/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/e0eb667309a62b98e36b00a4a7b475c2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/e0eb667309a62b98e36b00a4a7b475c2/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/e02ee58485b217c326190ca1968fee46/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:20:9-41
+	android:roundIcon
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:21:9-54
+	android:icon
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:19:9-43
+	android:allowBackup
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:23:9-40
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:17:3-75
+activity#com.helloroni.livescoreandscheduleofipl2019.MainActivity
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:27:9-33:20
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:27:19-90
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:31:27-74
+activity#com.helloroni.livescoreandscheduleofipl2019.prediction
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:34:9-90
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:34:19-88
+activity#com.helloroni.livescoreandscheduleofipl2019.pointtable
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:35:9-90
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:35:19-88
+activity#com.helloroni.livescoreandscheduleofipl2019.Addingnews
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:36:9-90
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:36:19-88
+activity#com.helloroni.livescoreandscheduleofipl2019.Details
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:37:9-87
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:37:19-85
+activity#com.helloroni.livescoreandscheduleofipl2019.team
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:38:9-84
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:38:19-82
+activity#com.helloroni.livescoreandscheduleofipl2019.timetable
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:39:9-89
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:39:19-87
+activity#com.helloroni.livescoreandscheduleofipl2019.Squad
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:40:9-85
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:40:19-83
+activity#com.helloroni.livescoreandscheduleofipl2019.squad1
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:41:9-86
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:41:19-84
+activity#com.helloroni.livescoreandscheduleofipl2019.squad2
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:42:9-86
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:42:19-84
+activity#com.helloroni.livescoreandscheduleofipl2019.squad3
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:43:9-86
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:43:19-84
+activity#com.helloroni.livescoreandscheduleofipl2019.squad4
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:44:9-86
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:44:19-84
+activity#com.helloroni.livescoreandscheduleofipl2019.squad5
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:45:9-86
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:45:19-84
+activity#com.helloroni.livescoreandscheduleofipl2019.squad6
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:46:9-86
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:46:19-84
+activity#com.helloroni.livescoreandscheduleofipl2019.squad7
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:47:9-86
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:47:19-84
+activity#com.helloroni.livescoreandscheduleofipl2019.msdoni
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:48:9-86
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:48:19-84
+activity#com.helloroni.livescoreandscheduleofipl2019.murali
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:49:9-86
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:49:19-84
+activity#com.helloroni.livescoreandscheduleofipl2019.kmasif
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:50:9-86
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:50:19-84
+activity#com.helloroni.livescoreandscheduleofipl2019.karnsharma
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:51:9-90
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:51:19-88
+activity#com.helloroni.livescoreandscheduleofipl2019.kader
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:52:9-85
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:52:19-83
+activity#com.helloroni.livescoreandscheduleofipl2019.jadeja
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:53:9-86
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:53:19-84
+activity#com.helloroni.livescoreandscheduleofipl2019.harbajan
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:54:9-88
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:54:19-86
+activity#com.helloroni.livescoreandscheduleofipl2019.david
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:55:9-85
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:55:19-83
+activity#com.helloroni.livescoreandscheduleofipl2019.chahar
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:56:9-86
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:56:19-84
+activity#com.helloroni.livescoreandscheduleofipl2019.bravo
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:57:9-85
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:57:19-83
+activity#com.helloroni.livescoreandscheduleofipl2019.billings
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:58:9-88
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:58:19-86
+activity#com.helloroni.livescoreandscheduleofipl2019.watson
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:59:9-86
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:59:19-84
+activity#com.helloroni.livescoreandscheduleofipl2019.tahir
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:60:9-85
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:60:19-83
+activity#com.helloroni.livescoreandscheduleofipl2019.shorey
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:61:9-86
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:61:19-84
+activity#com.helloroni.livescoreandscheduleofipl2019.shardul
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:62:9-87
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:62:19-85
+activity#com.helloroni.livescoreandscheduleofipl2019.santner
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:63:9-87
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:63:19-85
+activity#com.helloroni.livescoreandscheduleofipl2019.raina
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:64:9-85
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:64:19-83
+activity#com.helloroni.livescoreandscheduleofipl2019.raidu
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:65:9-85
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:65:19-83
+activity#com.helloroni.livescoreandscheduleofipl2019.plesis
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:66:9-86
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:66:19-84
+activity#com.helloroni.livescoreandscheduleofipl2019.ngidi
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:67:9-85
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:67:19-83
+activity#com.helloroni.livescoreandscheduleofipl2019.livescore
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:68:9-89
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:68:19-87
+activity#com.helloroni.livescoreandscheduleofipl2019.stadium
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:69:9-87
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:69:19-85
+activity#com.helloroni.livescoreandscheduleofipl2019.winners
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:70:9-87
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:70:19-85
+activity#com.helloroni.livescoreandscheduleofipl2019.roni
+ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:71:9-84
+	android:name
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml:71:19-82
+uses-sdk
+INJECTED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml
+INJECTED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml
+MERGED from [com.android.volley:volley:1.1.1] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/c798daaddfd29a7bda6b1be97c9e070b/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/c798daaddfd29a7bda6b1be97c9e070b/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/042368c6f23e8347e11005cc3da58270/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/042368c6f23e8347e11005cc3da58270/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-ads:17.2.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/9b710e51573c2c7bfbb022fa0ef7d7c0/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:17.2.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/9b710e51573c2c7bfbb022fa0ef7d7c0/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/e62f6db15de1649f6de7bb36e40acc5a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/e62f6db15de1649f6de7bb36e40acc5a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/fdc8d683ba2c8cd9340b60993066c9c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/fdc8d683ba2c8cd9340b60993066c9c0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/25e3680af815cb09cec05b09657a6128/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/25e3680af815cb09cec05b09657a6128/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:17.2.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/28d7584bbbd01730a2715d2f7f882f92/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:17.2.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/28d7584bbbd01730a2715d2f7f882f92/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:17.2.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/b918aa76a2c63ad6cdb58cd8ca37dc28/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:17.2.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/b918aa76a2c63ad6cdb58cd8ca37dc28/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/4eaff4d8d727ff911578f97044cb6cc0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/4eaff4d8d727ff911578f97044cb6cc0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/30f69a612e173bd9df7575d513e9be98/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/30f69a612e173bd9df7575d513e9be98/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/bd9ed5e1e2ca5bd903d0546d250f5f30/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/bd9ed5e1e2ca5bd903d0546d250f5f30/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/0da8af325bfc129cef7a45ae76b297f9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/0da8af325bfc129cef7a45ae76b297f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/954c42d5144449e746f8e5af73f4bc98/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/954c42d5144449e746f8e5af73f4bc98/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/dbb595c352d7e8c334b19aaa6efa4c06/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/dbb595c352d7e8c334b19aaa6efa4c06/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/82983eaad513b700a96d6ec2df02c0d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/82983eaad513b700a96d6ec2df02c0d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/d36321e4a69a090fbd24147d4619f80d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/d36321e4a69a090fbd24147d4619f80d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/b815e36f4a42a7a48ad07ecb2290ce8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/b815e36f4a42a7a48ad07ecb2290ce8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/cb4dceca27e37fedb02bc167e644208b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/cb4dceca27e37fedb02bc167e644208b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/b2b185f5902eec6895080263641320f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/b2b185f5902eec6895080263641320f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/90f552a1b4088581894aa25f1cb629b1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/90f552a1b4088581894aa25f1cb629b1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:viewpager:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/44dc12c33a67b49715206f2d8a197132/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/44dc12c33a67b49715206f2d8a197132/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/2ad2ea62709e6cf7256e1a4879f3e8fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/2ad2ea62709e6cf7256e1a4879f3e8fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/9a8ba8ade48a6cb579df250abd94a7e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/9a8ba8ade48a6cb579df250abd94a7e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/4b7e3319986b2dcdce70cdc2eb1d9ff1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/4b7e3319986b2dcdce70cdc2eb1d9ff1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/5ff9cdb26a6c8004dd82ee86550bb592/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/5ff9cdb26a6c8004dd82ee86550bb592/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/e1590b43851878b908607871a1fe59f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/e1590b43851878b908607871a1fe59f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/55ceb6691b986af2148df73ef9c15081/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/55ceb6691b986af2148df73ef9c15081/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/e02ee58485b217c326190ca1968fee46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/e02ee58485b217c326190ca1968fee46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/e0eb667309a62b98e36b00a4a7b475c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/e0eb667309a62b98e36b00a4a7b475c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/485c320b64c1aefc5aa452ae15964972/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/485c320b64c1aefc5aa452ae15964972/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/4d3a63e60a3f82c0e38dcf54a7d68e16/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/4d3a63e60a3f82c0e38dcf54a7d68e16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/3966721c94617ccd749e7cfef103c3ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/3966721c94617ccd749e7cfef103c3ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/0e5a3b38bb39b3ea2e69a841a8c1af87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/0e5a3b38bb39b3ea2e69a841a8c1af87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/2ff03ce5f968fe3b1d47f443129f6f61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/2ff03ce5f968fe3b1d47f443129f6f61/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/7e3be8b0adeea258b86378102300e354/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/7e3be8b0adeea258b86378102300e354/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/5a6eb2acaa889f76c31b6b130b56b8a6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/5a6eb2acaa889f76c31b6b130b56b8a6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/298675b4814bcdcf1d78b9d4416ab3cf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/298675b4814bcdcf1d78b9d4416ab3cf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/7f7cf4e1c88df74ed05fef5f90f52487/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/7f7cf4e1c88df74ed05fef5f90f52487/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/312dfa91b221abc29fdffc60fa06ac0a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/312dfa91b221abc29fdffc60fa06ac0a/AndroidManifest.xml:20:5-44
+INJECTED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml
+INJECTED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:17.2.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/9b710e51573c2c7bfbb022fa0ef7d7c0/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml
+		ADDED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/saifulislam/Desktop/Project/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:customtabs:26.1.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/fdc8d683ba2c8cd9340b60993066c9c0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/954c42d5144449e746f8e5af73f4bc98/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/954c42d5144449e746f8e5af73f4bc98/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/90f552a1b4088581894aa25f1cb629b1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/90f552a1b4088581894aa25f1cb629b1/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:customtabs:26.1.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/fdc8d683ba2c8cd9340b60993066c9c0/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:customtabs:26.1.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/fdc8d683ba2c8cd9340b60993066c9c0/AndroidManifest.xml:24:13-51
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/25e3680af815cb09cec05b09657a6128/AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/25e3680af815cb09cec05b09657a6128/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/25e3680af815cb09cec05b09657a6128/AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/25e3680af815cb09cec05b09657a6128/AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/25e3680af815cb09cec05b09657a6128/AndroidManifest.xml:30:13-65
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/25e3680af815cb09cec05b09657a6128/AndroidManifest.xml:35:9-39:39
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/25e3680af815cb09cec05b09657a6128/AndroidManifest.xml:37:13-73
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/25e3680af815cb09cec05b09657a6128/AndroidManifest.xml:38:13-37
+	android:initOrder
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/25e3680af815cb09cec05b09657a6128/AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/25e3680af815cb09cec05b09657a6128/AndroidManifest.xml:36:13-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/30f69a612e173bd9df7575d513e9be98/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/30f69a612e173bd9df7575d513e9be98/AndroidManifest.xml:25:22-65
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/0da8af325bfc129cef7a45ae76b297f9/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/0da8af325bfc129cef7a45ae76b297f9/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/saifulislam/.gradle/caches/transforms-2/files-2.1/0da8af325bfc129cef7a45ae76b297f9/AndroidManifest.xml:24:13-58

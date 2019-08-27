@@ -1,0 +1,438 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:2:1-74:12
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\f3ba8c648a41843c0efd54da9e66e483\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\38de572ac371dd1ee57331361cb05918\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-ads:17.2.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-ads-17.2.0.aar\0c093f8249e4055042b36fc9b6f9324d\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a53a03d37b3a1b761af0eebe530a391d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\a2828385b50b97a44e06f222387c7d23\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.2.0.aar\43ab9c8b55cd20f38c69581436125609\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-gass:17.2.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-gass-17.2.0.aar\2d853515f86b725aeb6318fb65f745b7\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-base:17.2.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-17.2.0.aar\2c7e435002f9578dd12154e58943d594\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\0e35a3f5096333332c70bb023d4b63a5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.3.0.aar\20d5a497473332709d83d6f60a315ccd\AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.3.0.aar\11897d1d660bbe81d8adbeef0ced0e2c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\c69674b483eff223d22f2b5eab3ff933\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d14688e337814b509517c10f3097c864\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\75cb2aef9407aaeea2c776ed0cd38738\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\bc0caa874ad3fa4e407df49a8f554cb6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\d1aa4c72ea8e8d787b10a612f0dd75cc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\011e68e6be95138ec9b89b18ac719783\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\ace5d4b01f132766851d6cc156bf6006\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\3f780a87fb72d881e472d0a24fae9acf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\89b137023ba12605bdbccd956e0b4aa2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\2dc9b5dd93c7ae6611d48117538c7dfa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\d37bffe85ab714aa31a80f4afab96602\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\0264508cfc053587ab711d68a7eaee98\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\aaec8168f70f190ac5a5bfa4d30c7a29\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\69c8dd179a24fd0eed481e00d61c2abd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\a944a17de3b0201997132115bb71c2ee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\d570d7fe23ada83c13abaaf3667e8494\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1d0b875e6b21ebed0876b670cf0a9d3e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d73d7f2b47af68486163be979f1991b7\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\c48ad648e256400899a774ac896cc240\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\76b11d8a9cc5f14112afd6fabec2533c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\3b94ec760a6dc0a2e0a4ceb80e44945c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\936a9000cf636b643fce1a44857b1ebf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\091da4e0d3cc3b0187de946f5dcb3ae3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\479ee5d0d3320efdbec5891f446aee27\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\ac75b13b581a544e079797372672d702\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\759e87686c0abb390570a26b010b18b6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a6471645d34e82a9ab6c6d08ae8ac160\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\dcca96952214c806f470a91018cac337\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:2:1-74:12
+	package
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:3:5-56
+		INJECTED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml
+	android:compileSdkVersionCodename
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:7:5-42
+	android:versionName
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:5:5-34
+		INJECTED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml
+	android:compileSdkVersion
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:6:5-35
+	xmlns:android
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:9:5-11:65
+	android:value
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:11:9-63
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:10:9-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.2.0.aar\43ab9c8b55cd20f38c69581436125609\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.2.0.aar\43ab9c8b55cd20f38c69581436125609\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.3.0.aar\20d5a497473332709d83d6f60a315ccd\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.3.0.aar\20d5a497473332709d83d6f60a315ccd\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:13:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.2.0.aar\43ab9c8b55cd20f38c69581436125609\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.2.0.aar\43ab9c8b55cd20f38c69581436125609\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.3.0.aar\20d5a497473332709d83d6f60a315ccd\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.3.0.aar\20d5a497473332709d83d6f60a315ccd\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:13:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:14:22-73
+application
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:16:5-72:19
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\f3ba8c648a41843c0efd54da9e66e483\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\f3ba8c648a41843c0efd54da9e66e483\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\38de572ac371dd1ee57331361cb05918\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\38de572ac371dd1ee57331361cb05918\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\a2828385b50b97a44e06f222387c7d23\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\a2828385b50b97a44e06f222387c7d23\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.2.0.aar\43ab9c8b55cd20f38c69581436125609\AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.2.0.aar\43ab9c8b55cd20f38c69581436125609\AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-gass:17.2.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-gass-17.2.0.aar\2d853515f86b725aeb6318fb65f745b7\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:17.2.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-gass-17.2.0.aar\2d853515f86b725aeb6318fb65f745b7\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:17.2.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-17.2.0.aar\2c7e435002f9578dd12154e58943d594\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:17.2.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-17.2.0.aar\2c7e435002f9578dd12154e58943d594\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\0e35a3f5096333332c70bb023d4b63a5\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\0e35a3f5096333332c70bb023d4b63a5\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.3.0.aar\20d5a497473332709d83d6f60a315ccd\AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.3.0.aar\20d5a497473332709d83d6f60a315ccd\AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.3.0.aar\11897d1d660bbe81d8adbeef0ced0e2c\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.3.0.aar\11897d1d660bbe81d8adbeef0ced0e2c\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\c69674b483eff223d22f2b5eab3ff933\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\c69674b483eff223d22f2b5eab3ff933\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d14688e337814b509517c10f3097c864\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d14688e337814b509517c10f3097c864\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\89b137023ba12605bdbccd956e0b4aa2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\89b137023ba12605bdbccd956e0b4aa2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1d0b875e6b21ebed0876b670cf0a9d3e\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1d0b875e6b21ebed0876b670cf0a9d3e\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d73d7f2b47af68486163be979f1991b7\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d73d7f2b47af68486163be979f1991b7\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1d0b875e6b21ebed0876b670cf0a9d3e\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:20:9-41
+	android:roundIcon
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:21:9-54
+	android:icon
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:19:9-43
+	android:allowBackup
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:23:9-40
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:17:3-75
+activity#com.helloroni.livescoreandscheduleofipl2019.MainActivity
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:24:9-30:20
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:24:19-90
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:28:27-74
+activity#com.helloroni.livescoreandscheduleofipl2019.prediction
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:31:9-90
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:31:19-88
+activity#com.helloroni.livescoreandscheduleofipl2019.pointtable
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:32:9-90
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:32:19-88
+activity#com.helloroni.livescoreandscheduleofipl2019.Addingnews
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:33:9-90
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:33:19-88
+activity#com.helloroni.livescoreandscheduleofipl2019.Details
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:34:9-87
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:34:19-85
+activity#com.helloroni.livescoreandscheduleofipl2019.team
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:35:9-84
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:35:19-82
+activity#com.helloroni.livescoreandscheduleofipl2019.timetable
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:36:9-89
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:36:19-87
+activity#com.helloroni.livescoreandscheduleofipl2019.Squad
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:37:9-85
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:37:19-83
+activity#com.helloroni.livescoreandscheduleofipl2019.squad1
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:38:9-86
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:38:19-84
+activity#com.helloroni.livescoreandscheduleofipl2019.squad2
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:39:9-86
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:39:19-84
+activity#com.helloroni.livescoreandscheduleofipl2019.squad3
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:40:9-86
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:40:19-84
+activity#com.helloroni.livescoreandscheduleofipl2019.squad4
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:41:9-86
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:41:19-84
+activity#com.helloroni.livescoreandscheduleofipl2019.squad5
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:42:9-86
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:42:19-84
+activity#com.helloroni.livescoreandscheduleofipl2019.squad6
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:43:9-86
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:43:19-84
+activity#com.helloroni.livescoreandscheduleofipl2019.squad7
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:44:9-86
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:44:19-84
+activity#com.helloroni.livescoreandscheduleofipl2019.msdoni
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:45:9-86
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:45:19-84
+activity#com.helloroni.livescoreandscheduleofipl2019.murali
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:46:9-86
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:46:19-84
+activity#com.helloroni.livescoreandscheduleofipl2019.kmasif
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:47:9-86
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:47:19-84
+activity#com.helloroni.livescoreandscheduleofipl2019.karnsharma
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:48:9-90
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:48:19-88
+activity#com.helloroni.livescoreandscheduleofipl2019.kader
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:49:9-85
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:49:19-83
+activity#com.helloroni.livescoreandscheduleofipl2019.jadeja
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:50:9-86
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:50:19-84
+activity#com.helloroni.livescoreandscheduleofipl2019.harbajan
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:51:9-88
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:51:19-86
+activity#com.helloroni.livescoreandscheduleofipl2019.david
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:52:9-85
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:52:19-83
+activity#com.helloroni.livescoreandscheduleofipl2019.chahar
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:53:9-86
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:53:19-84
+activity#com.helloroni.livescoreandscheduleofipl2019.bravo
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:54:9-85
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:54:19-83
+activity#com.helloroni.livescoreandscheduleofipl2019.billings
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:55:9-88
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:55:19-86
+activity#com.helloroni.livescoreandscheduleofipl2019.watson
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:56:9-86
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:56:19-84
+activity#com.helloroni.livescoreandscheduleofipl2019.tahir
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:57:9-85
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:57:19-83
+activity#com.helloroni.livescoreandscheduleofipl2019.shorey
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:58:9-86
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:58:19-84
+activity#com.helloroni.livescoreandscheduleofipl2019.shardul
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:59:9-87
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:59:19-85
+activity#com.helloroni.livescoreandscheduleofipl2019.santner
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:60:9-87
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:60:19-85
+activity#com.helloroni.livescoreandscheduleofipl2019.raina
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:61:9-85
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:61:19-83
+activity#com.helloroni.livescoreandscheduleofipl2019.raidu
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:62:9-85
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:62:19-83
+activity#com.helloroni.livescoreandscheduleofipl2019.plesis
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:63:9-86
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:63:19-84
+activity#com.helloroni.livescoreandscheduleofipl2019.ngidi
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:64:9-85
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:64:19-83
+activity#com.helloroni.livescoreandscheduleofipl2019.livescore
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:65:9-89
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:65:19-87
+activity#com.helloroni.livescoreandscheduleofipl2019.stadium
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:66:9-87
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:66:19-85
+activity#com.helloroni.livescoreandscheduleofipl2019.winners
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:67:9-87
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:67:19-85
+activity#com.helloroni.livescoreandscheduleofipl2019.roni
+ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:68:9-84
+	android:name
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml:68:19-82
+uses-sdk
+INJECTED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\f3ba8c648a41843c0efd54da9e66e483\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\f3ba8c648a41843c0efd54da9e66e483\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\38de572ac371dd1ee57331361cb05918\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\38de572ac371dd1ee57331361cb05918\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-ads:17.2.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-ads-17.2.0.aar\0c093f8249e4055042b36fc9b6f9324d\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:17.2.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-ads-17.2.0.aar\0c093f8249e4055042b36fc9b6f9324d\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a53a03d37b3a1b761af0eebe530a391d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a53a03d37b3a1b761af0eebe530a391d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\a2828385b50b97a44e06f222387c7d23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\a2828385b50b97a44e06f222387c7d23\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.2.0.aar\43ab9c8b55cd20f38c69581436125609\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.2.0.aar\43ab9c8b55cd20f38c69581436125609\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:17.2.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-gass-17.2.0.aar\2d853515f86b725aeb6318fb65f745b7\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:17.2.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-gass-17.2.0.aar\2d853515f86b725aeb6318fb65f745b7\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:17.2.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-17.2.0.aar\2c7e435002f9578dd12154e58943d594\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:17.2.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-17.2.0.aar\2c7e435002f9578dd12154e58943d594\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\0e35a3f5096333332c70bb023d4b63a5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\0e35a3f5096333332c70bb023d4b63a5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.3.0.aar\20d5a497473332709d83d6f60a315ccd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.3.0.aar\20d5a497473332709d83d6f60a315ccd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.3.0.aar\11897d1d660bbe81d8adbeef0ced0e2c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.3.0.aar\11897d1d660bbe81d8adbeef0ced0e2c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\c69674b483eff223d22f2b5eab3ff933\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\c69674b483eff223d22f2b5eab3ff933\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d14688e337814b509517c10f3097c864\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d14688e337814b509517c10f3097c864\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\75cb2aef9407aaeea2c776ed0cd38738\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\75cb2aef9407aaeea2c776ed0cd38738\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\bc0caa874ad3fa4e407df49a8f554cb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\bc0caa874ad3fa4e407df49a8f554cb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\d1aa4c72ea8e8d787b10a612f0dd75cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\d1aa4c72ea8e8d787b10a612f0dd75cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\011e68e6be95138ec9b89b18ac719783\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\011e68e6be95138ec9b89b18ac719783\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\ace5d4b01f132766851d6cc156bf6006\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\ace5d4b01f132766851d6cc156bf6006\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\3f780a87fb72d881e472d0a24fae9acf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\3f780a87fb72d881e472d0a24fae9acf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\89b137023ba12605bdbccd956e0b4aa2\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\89b137023ba12605bdbccd956e0b4aa2\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\2dc9b5dd93c7ae6611d48117538c7dfa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\2dc9b5dd93c7ae6611d48117538c7dfa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\d37bffe85ab714aa31a80f4afab96602\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\d37bffe85ab714aa31a80f4afab96602\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\0264508cfc053587ab711d68a7eaee98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\0264508cfc053587ab711d68a7eaee98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\aaec8168f70f190ac5a5bfa4d30c7a29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\aaec8168f70f190ac5a5bfa4d30c7a29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\69c8dd179a24fd0eed481e00d61c2abd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\69c8dd179a24fd0eed481e00d61c2abd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\a944a17de3b0201997132115bb71c2ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\a944a17de3b0201997132115bb71c2ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\d570d7fe23ada83c13abaaf3667e8494\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\d570d7fe23ada83c13abaaf3667e8494\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1d0b875e6b21ebed0876b670cf0a9d3e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1d0b875e6b21ebed0876b670cf0a9d3e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d73d7f2b47af68486163be979f1991b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d73d7f2b47af68486163be979f1991b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\c48ad648e256400899a774ac896cc240\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\c48ad648e256400899a774ac896cc240\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\76b11d8a9cc5f14112afd6fabec2533c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\76b11d8a9cc5f14112afd6fabec2533c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\3b94ec760a6dc0a2e0a4ceb80e44945c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\3b94ec760a6dc0a2e0a4ceb80e44945c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\936a9000cf636b643fce1a44857b1ebf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\936a9000cf636b643fce1a44857b1ebf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\091da4e0d3cc3b0187de946f5dcb3ae3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\091da4e0d3cc3b0187de946f5dcb3ae3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\479ee5d0d3320efdbec5891f446aee27\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\479ee5d0d3320efdbec5891f446aee27\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\ac75b13b581a544e079797372672d702\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\ac75b13b581a544e079797372672d702\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\759e87686c0abb390570a26b010b18b6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\759e87686c0abb390570a26b010b18b6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a6471645d34e82a9ab6c6d08ae8ac160\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a6471645d34e82a9ab6c6d08ae8ac160\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\dcca96952214c806f470a91018cac337\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\dcca96952214c806f470a91018cac337\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:17.2.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-ads-17.2.0.aar\0c093f8249e4055042b36fc9b6f9324d\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\saifu\Desktop\Android\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:customtabs:26.1.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\a2828385b50b97a44e06f222387c7d23\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d14688e337814b509517c10f3097c864\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d14688e337814b509517c10f3097c864\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\89b137023ba12605bdbccd956e0b4aa2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\89b137023ba12605bdbccd956e0b4aa2\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:customtabs:26.1.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\a2828385b50b97a44e06f222387c7d23\AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:customtabs:26.1.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\a2828385b50b97a44e06f222387c7d23\AndroidManifest.xml:24:13-51
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.2.0.aar\43ab9c8b55cd20f38c69581436125609\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.2.0.aar\43ab9c8b55cd20f38c69581436125609\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.2.0.aar\43ab9c8b55cd20f38c69581436125609\AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.2.0.aar\43ab9c8b55cd20f38c69581436125609\AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.2.0.aar\43ab9c8b55cd20f38c69581436125609\AndroidManifest.xml:30:13-65
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.2.0.aar\43ab9c8b55cd20f38c69581436125609\AndroidManifest.xml:35:9-39:39
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.2.0.aar\43ab9c8b55cd20f38c69581436125609\AndroidManifest.xml:37:13-73
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.2.0.aar\43ab9c8b55cd20f38c69581436125609\AndroidManifest.xml:38:13-37
+	android:initOrder
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.2.0.aar\43ab9c8b55cd20f38c69581436125609\AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.2.0.aar\43ab9c8b55cd20f38c69581436125609\AndroidManifest.xml:36:13-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.3.0.aar\20d5a497473332709d83d6f60a315ccd\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.3.0.aar\20d5a497473332709d83d6f60a315ccd\AndroidManifest.xml:25:22-65
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\c69674b483eff223d22f2b5eab3ff933\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\c69674b483eff223d22f2b5eab3ff933\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\saifu\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\c69674b483eff223d22f2b5eab3ff933\AndroidManifest.xml:24:13-58

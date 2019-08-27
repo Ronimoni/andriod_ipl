@@ -1,0 +1,1603 @@
+<resources>
+    <string name="app_name">LIVE SCORE AND SCHEDULE OF IPL 2019</string>
+        <string name="msdoni">MS Dhoni</string>
+        <string name="ABD">AB De viliars</string>
+    <string name="rohit">Rohit Sharma</string>
+    <string name="dinesh">Dinesh Kartik</string>
+    <string name="virat">Virat Kohli</string>
+    <string name="rahane">Ajinkya Rahane</string>
+    <string name="manish">Manish Pandey</string>
+    <string name="iyer">Shreyas Iyer</string>
+    <string name="ashwin">Ravichandran Ashwin</string>
+    <string name="brabo"> DJ Bravo</string>
+    <string name="raina"> Suresh Raina</string>
+    <string name="watson"> Shane Watson</string>
+    <string name="jadeja"> Ravindra Jadeja</string>
+    <string name="sam"> Sam Billings</string>
+    <string name="raidu">  Ambati Raidu</string>
+    <string name="david">David Willey</string>
+    <string name="chahar"> Deepak Chahar</string>
+    <string name="du"> Du Plessis</string>
+    <string name="murali"> Murali Vijay</string>
+    <string name="tahir"> Imran Tahir</string>
+    <string name="kmasif"> K M Asif</string>
+    <string name="ngidi"> Lungi Ngidi</string>
+    <string name="thakur"> Shardul Thakur</string>
+    <string name="santer"> Mitchell Santner</string>
+    <string name="kader">  Kedar Jadhav</string>
+    <string name="shorey"> Dhruv Shorey</string>
+    <string name="harbajan"> Harbhajan Singh</string>
+    <string name="karn"> Karn Sharma</string>
+
+
+
+
+        <string-array name="a">
+
+            <item>MS Dhoni</item>
+            <item> DJ Bravo</item>
+            <item> Suresh Raina</item>
+            <item> Shane Watson</item>
+            <item> Ravindra Jadeja</item>
+            <item>Sam Billings</item>
+            <item> Ambati Raidu</item>
+            <item> David Willey</item>
+            <item> Deepak Chahar</item>
+            <item> Du Plessis</item>
+            <item> Murali Vijay</item>
+            <item> Imran Tahir</item>
+            <item> K M Asif</item>
+            <item> Lungi Ngidi</item>
+            <item> Shardul Thakur</item>
+            <item> Mitchell Santner</item>
+            <item> Kedar Jadhav</item>
+            <item>Dhruv Shorey</item>
+            <item> Harbhajan Singh</item>
+            <item>Karn Sharma</item>
+
+        </string-array>
+    <string-array name="b">
+
+        <item>Rohit Sharma</item>
+        <item>Mustafizur\nRahman</item>
+        <item>Hardik Pandya</item>
+        <item> Kieron Pollard</item>
+        <item> Krunal Pandya</item>
+        <item> Mitchell\nMcLanegan</item>
+        <item> Jaspreet Bumrah</item>
+        <item> Evin Lewis</item>
+        <item> Ishan Kishan</item>
+        <item> Ben Cutting</item>
+        <item> Mayank Markande</item>
+        <item>JP Duminy</item>
+        <item> Surya Kumar </item>
+        <item> Adam Milne</item>
+        <item> Aditya Tare</item>
+        <item> Siddesh Lad</item>
+        <item>Rahul Chahar</item>
+        <item> Anukul Roy</item>
+        <item> Tajinder Singh</item>
+        <item>M.D.Nidheesh</item>
+
+
+    </string-array>
+    <string-array name="c">
+
+        <item>Dinesh Kartik</item>
+        <item>Cris Lynn</item>
+        <item>Robin Uthappa</item>
+        <item>Sunil Narayan</item>
+        <item>Kuldeep Yadav</item>
+        <item>Andre Russel</item>
+        <item>Nitish Rana</item>
+        <item>Tom Curren</item>
+        <item>Piyush Chawla</item>
+        <item>Javon Searles</item>
+        <item>Prasidhh Krishna</item>
+        <item>Cameron Delport</item>
+        <item>Rinku Singh</item>
+        <item>Kamlesh Nagarkoti</item>
+        <item>Shivam Mavi</item>
+        <item>Apoorv Wankhede</item>
+
+
+    </string-array>
+    <string-array name="d">
+
+        <item>Virat Kohli</item>
+        <item> A.B. D’Villers</item>
+        <item> Yezuvendra Chahal</item>
+        <item> Moeen Ali</item>
+        <item> Parthiv Patel</item>
+        <item>Tim Southee</item>
+        <item> Mohammed Siraj</item>
+        <item> Shimron Hetmyer</item>
+        <item> Devdatt Padikal</item>
+        <item> Marcos Stoinis</item>
+        <item> Umesh Yadav</item>
+        <item> Colin D’Grandhome</item>
+        <item>Washington\n Sunder</item>
+        <item> Henric Klaseen</item>
+        <item> Shivam Dubey</item>
+        <item> Nathan Coulter</item>
+        <item> Navdeep Saini</item>
+        <item>Gurkeerat Singh</item>
+        <item>Kulwant Khejroliya</item>
+        <item>Pawan Negi</item>
+
+    </string-array>
+
+    <string-array name="e">
+
+        <item>Ajinkya Rahane</item>
+        <item> Steve Smith</item>
+        <item> Sanju Samson</item>
+        <item> Jos Buttler</item>
+        <item> Stuart Binny</item>
+        <item>Ben Stokes</item>
+        <item> Dhaval Kulkarni</item>
+        <item> Jofra Archer</item>
+        <item>Krishnappa\nGowtham</item>
+        <item> Mahipal Lomror</item>
+        <item> Shreyas Gopal</item>
+        <item>Prashant Chopra</item>
+        <item>Rahul Tripathi</item>
+        <item>Jaydev Unadkat</item>
+
+
+    </string-array>
+
+    <string-array name="f">
+
+        <item>Manish Pandey</item>
+        <item>David Warner</item>
+        <item>Deepak Hudda</item>
+        <item>Kane Williamson</item>
+        <item>Tanmay Agarwal</item>
+        <item>Rashid Khan</item>
+        <item> Bipul Sharma</item>
+        <item> Md. Nabi</item>
+        <item> Khaleel Ahemad</item>
+        <item>Shakib Al Hassan</item>
+        <item> Basil Thampi</item>
+        <item> Alex Hales</item>
+        <item>Bhuvneshwar Kumar</item>
+        <item> Yusuf Pathan</item>
+        <item> Srivats Goswami</item>
+        <item>carlos Brathwaite</item>
+        <item> Sachin Baby</item>
+        <item>Chris Jordan</item>
+        <item>Siddharth Kaul</item>
+        <item>Billy Stanlake</item>
+        <item>T. Natrajan</item>
+        <item>Sandeep Sharma</item>
+
+    </string-array>
+
+    <string-array name="g">
+
+        <item>Shreyas Iyer</item>
+        <item>Rishabh Pant</item>
+        <item>Shikhar Dhawan</item>
+        <item>Chris Morris</item>
+        <item>Amit Mishra</item>
+        <item>Trent Bault</item>
+        <item> Shahbaz Nadeem</item>
+        <item>Colin Munro</item>
+        <item>Sandeep Lamichhane</item>
+        <item>Liam Plunkett</item>
+        <item> Jayant Yadav</item>
+        <item> Kagiso Rabada</item>
+        <item>Gurkeerat Singh</item>
+        <item> Sayan Ghosh</item>
+        <item> Rahul Tewatiya</item>
+        <item>Avesh Khan</item>
+        <item> Harshal Patel</item>
+        <item>Manjot Kalra</item>
+        <item>Abhishek Sharma</item>
+        <item>Prithvi Shaw</item>
+
+
+    </string-array>
+
+    <string-array name="h">
+
+        <item>Ravichandran Ashwin</item>
+        <item>Cris Gayle</item>
+        <item>K.L. Rahul</item>
+        <item>Andrew Tye</item>
+        <item>Mandeep Singh</item>
+        <item>David Miller</item>
+        <item> Mohammed Shami</item>
+        <item>Nicolas Pooran</item>
+        <item>Sarfaraz Khan</item>
+        <item>Moises Henriques</item>
+        <item> Ankit Rajpoot</item>
+        <item> Mujeeb Ur Rahman</item>
+        <item>Karun Nair</item>
+        <item> Mayank Agarwal</item>
+
+
+
+    </string-array>
+        <string name="share">Share App\n</string>
+        <string name="Stadium">Stadium\n</string>
+        <string name="rateus">Rate Us\n</string>
+        <string name="international">international Player</string>
+        <string name="mumbaisquad">Mumbai Squad</string>
+        <string name="csksquad">Chennai Squad</string>
+        <string name="ddsquad">Delhi Squad</string>
+        <string name="rcbsquad">Bangalore Squad</string>
+        <string name="srssquad">Hyderabad Squad</string>
+        <string name="rrsquad">Rajasthan Squad</string>
+        <string name="kkrsquad">Kolkata Squad</string>
+        <string name="kixpsquad">Punjab Squad</string>
+        <string name="localPlayer">Local Player</string>
+        <string name="live">Live Score\n </string>
+        <string name="predition">match prediction \n</string>
+        <string name="schedule">match schedule\n</string>
+        <string name="team"> teams and squads  \n</string>
+        <string name="squad"> squads \n  </string>
+        <string name="winner"> Winnners \n  </string>
+        <string name="pointtable">point table\n</string>
+        <string name="Tname1">	Chennai Super Kings (CSK)	</string>
+        <string name="Tname2">	Mumbai Indians \n(MI)</string>
+        <string name="Tname3">	Kolkata Knight Riders (KKR)</string>
+        <string name="Tname4">Royal Challengers Bangalore (RCB)	</string>
+        <string name="Tname5">Rajasthan Royals (RR)</string>
+        <string name="Tname6">		Sun Risers Hyderabad (SRH)</string>
+        <string name="Tname7">	Delhi Capitals \n(DC)</string>
+        <string name="Tname8">	Kings XI Punjab (KXIP)</string>
+        <string name="match1">
+        Match No : 1, 23 March 2019 at 8:00 PM (GMT+5:30)\n
+        \n
+        	CHENNAI  \t Vs \t  BANGALORE  \n
+        \n
+         \n
+        Venue: CHENNAI.
+    </string>
+        <string name="match2">
+        Match No : 2 , 24 March 2019 at 4:00 PM (GMT+5:30)\n
+        \n
+        	KOLKATA   \t Vs \t  HYDERABAD   \n
+        \n
+    \n
+        Venue : KOLKATA.
+    </string>
+        <string name="match3">
+        Match No : 3 , 24 March 2019 at 8:00 PM (GMT+5:30)\n
+        \n
+        	MUMBAI \t Vs \t DELHI  \n
+        \n
+    \n
+        Venue : MUMBAI.
+    </string>
+        <string name="match4">
+        Match No : 4 , 25 March 2019 at 8:00 PM (GMT+5:30)\n
+        \n
+        	 RAJASTHAN  \t Vs \t   PUNJAB  \n
+        \n
+    \n
+        Venue : JAIPUR.
+    </string>
+        <string name="match5">
+        Match No : 5 , 26 March 2019 at 8:00 PM (GMT+5:30)\n
+        \n
+        	DELHI  \t Vs \t  CHENNAI   \n
+        \n
+    \n
+        Venue : DELHI.
+    </string>
+        <string name="match6">
+        Match No : 6 , 27 March 2019 at 8:00 PM (GMT+5:30)\n
+        \n
+        	KOLKATA \t Vs \t  PUNJAB  \n
+        \n
+    \n
+        Venue : KOLKATA.
+    </string>
+        <string name="match7">
+        Match No : 7 , 28 March 2019 at 8:00 PM (GMT+5:30)\n
+        \n
+        	BANGALORE  \t Vs \t MUMBAI  \n
+        \n
+    \n
+        Venue :BANGALORE.
+    </string>
+        <string name="match8">
+        Match No : 8 , 29 March 2019 At 8:00 PM (GMT+5:30)\n
+        \n
+        	HYDERABAD \t Vs \t  RAJASTHAN\n
+        \n
+    \n
+        Venue :HYDERABAD.
+    </string>
+        <string name="match9">
+        Match No : 9 , 30 March 2019 at 4:00 PM (GMT+5:30)\n
+        \n
+        	PUNJAB   \t Vs \t MUMBAI \n
+        \n
+    \n
+        Venue : MOHALI.
+    </string>
+        <string name="match10">
+        Match No : 10 , 30 March at 8:00 PM (GMT+5:30)\n
+        \n
+        	DELHI  \t Vs \t KOLKATA \n
+        \n
+    \n
+        Venue : DELHI .
+    </string>
+        <string name="match11">
+        Match No : 11 ,31 March 2019 at 4:00 PM (GMT+5:30)\n
+        \n
+        	HYDERABAD   \t Vs \t BANGALORE \n
+        \n
+    \n
+        Venue : HYDERABAD .
+    </string>
+        <string name="match12">
+        Match No : 12 , 31 March 2019 At 8:00 PM (GMT+5:30)\n
+        \n
+        	CHENNAI   \t Vs \t RAJASTHAN \n
+        \n
+    \n
+        Venue : CHENNAI .
+    </string>
+        <string name="match13">
+        Match No : 13 ,1 April 2019 At 8:00 PM (GMT+5:30)\n
+        \n
+        	PUNJAB  \t Vs \t DELHI \n
+        \n
+    \n
+        Venue : MOHALI.
+    </string>
+        <string name="match14">
+        Match No : 14 ,2 April 2019 At 8:00 PM (GMT+5:30)\n
+        \n
+        	RAJASTHAN  \t Vs \t BANGALORE\n
+        \n
+    \n
+        Venue : JAIPUR.
+    </string>
+        <string name="match15">
+        Match No : 15 ,3 April 2019 at 8:00 PM (GMT+5:30)\n
+        \n
+        	MUMBAI   \t Vs \t CHENNAI \n
+        \n
+    \n
+        Venue : MUMBAI .
+    </string>
+        <string name="match16">
+        Match No : 16 ,4 April 2019 at 8:00 PM (GMT+5:30)\n
+        \n
+        	DELHI \t Vs \t HYDERABAD \n
+        \n
+    \n
+        Venue : DELHI.
+    </string>
+        <string name="match17">
+        Match No : 17 ,5 April 2019 at 8:00 PM (GMT+5:30)\n
+        \n
+        	 BANGALORE  \t Vs \t KOLKATA \n
+        \n
+    \n
+        Venue :  BANGALORE.
+    </string>
+        <string name="match18">
+        Match No : 18 ,23rd March 2019 At 8:00 PM\n
+        \n
+        	Chennai  \t Vs \t Hyderabad \n
+        \n
+        Venue : M.A.Chidambaram Chepauk Stadium, Chennai.
+    </string>
+        <string name="match19">
+        Match No : 19 ,23rd March 2019 At 8:00 PM\n
+        \n
+        	Chennai  \t Vs \t Hyderabad \n
+        \n
+        Venue : M.A.Chidambaram Chepauk Stadium, Chennai.
+    </string>
+        <string name="match20">
+        Match No : 20 ,23rd March 2019 At 8:00 PM\n
+        \n
+        	Chennai  \t Vs \t Hyderabad \n
+        \n
+        Venue : M.A.Chidambaram Chepauk Stadium, Chennai.
+    </string>
+        <string name="match21">
+        Match No : 21 ,23rd March 2019 At 8:00 PM\n
+        \n
+        	Chennai  \t Vs \t Hyderabad \n
+        \n
+        Venue : M.A.Chidambaram Chepauk Stadium, Chennai.
+    </string>
+        <string name="match22">
+        Match No : 22 ,23rd March 2019 At 8:00 PM\n
+        \n
+        	Chennai  \t Vs \t Hyderabad \n
+        \n
+        Venue : M.A.Chidambaram Chepauk Stadium, Chennai.
+    </string>
+        <string name="match23">
+        Match No : 23 ,23rd March 2019 At 8:00 PM\n
+        \n
+        	Chennai  \t Vs \t Hyderabad \n
+        \n
+        Venue : M.A.Chidambaram Chepauk Stadium, Chennai.
+    </string>
+        <string name="match24">
+        Match No : 24 ,23rd March 2019 At 8:00 PM\n
+        \n
+        	Chennai  \t Vs \t Hyderabad \n
+        \n
+        Venue : M.A.Chidambaram Chepauk Stadium, Chennai.
+    </string>
+        <string name="match25">
+        Match No : 25 ,23rd March 2019 At 8:00 PM\n
+        \n
+        	Chennai  \t Vs \t Hyderabad \n
+        \n
+        Venue : M.A.Chidambaram Chepauk Stadium, Chennai.
+    </string>
+        <string name="match26">
+        Match No : 26 ,23rd March 2019 At 8:00 PM\n
+        \n
+        	Chennai  \t Vs \t Hyderabad \n
+        \n
+        Venue : M.A.Chidambaram Chepauk Stadium, Chennai.
+    </string>
+        <string name="match27">
+        Match No : 27 ,23rd March 2019 At 8:00 PM\n
+        \n
+        	Chennai  \t Vs \t Hyderabad \n
+        \n
+        Venue : M.A.Chidambaram Chepauk Stadium, Chennai.
+    </string>
+        <string name="match28">
+        Match No : 28 ,23rd March 2019 At 8:00 PM\n
+        \n
+        	Chennai  \t Vs \t Hyderabad \n
+        \n
+        Venue : M.A.Chidambaram Chepauk Stadium, Chennai.
+    </string>
+        <string name="match29">
+        Match No : 29 ,23rd March 2019 At 8:00 PM\n
+        \n
+        	Chennai  \t Vs \t Hyderabad \n
+        \n
+        Venue : M.A.Chidambaram Chepauk Stadium, Chennai.
+    </string>
+        <string name="match30">
+        Match No : 30 ,23rd March 2019 At 8:00 PM\n
+        \n
+        	Chennai  \t Vs \t Hyderabad \n
+        \n
+        Venue : M.A.Chidambaram Chepauk Stadium, Chennai.
+    </string>
+        <string name="match31">
+        Match No : 31 ,23rd March 2019 At 8:00 PM\n
+        \n
+        	Chennai  \t Vs \t Hyderabad \n
+        \n
+        Venue : M.A.Chidambaram Chepauk Stadium, Chennai.
+    </string>
+        <string name="match32">
+        Match No : 32 ,23rd March 2019 At 8:00 PM\n
+        \n
+        	Chennai  \t Vs \t Hyderabad \n
+        \n
+        Venue : M.A.Chidambaram Chepauk Stadium, Chennai.
+    </string>
+        <string name="match33">
+        Match No : 33 ,23rd March 2019 At 8:00 PM\n
+        \n
+        	Chennai  \t Vs \t Hyderabad \n
+        \n
+        Venue : M.A.Chidambaram Chepauk Stadium, Chennai.
+    </string>
+        <string name="match34">
+        Match No : 34 ,23rd March 2019 At 8:00 PM\n
+        \n
+        	Chennai  \t Vs \t Hyderabad \n
+        \n
+        Venue : M.A.Chidambaram Chepauk Stadium, Chennai.
+    </string>
+        <string name="match35">
+        Match No : 35 ,23rd March 2019 At 8:00 PM\n
+        \n
+        	Chennai  \t Vs \t Hyderabad \n
+        \n
+        Venue : M.A.Chidambaram Chepauk Stadium, Chennai.
+    </string>
+        <string name="match36">
+        Match No : 36 ,23rd March 2019 At 8:00 PM\n
+        \n
+        	Chennai  \t Vs \t Hyderabad \n
+        \n
+        Venue : M.A.Chidambaram Chepauk Stadium, Chennai.
+    </string>
+        <string name="match37">
+        Match No : 37 ,23rd March 2019 At 8:00 PM\n
+        \n
+        	Chennai  \t Vs \t Hyderabad \n
+        \n
+        Venue : M.A.Chidambaram Chepauk Stadium, Chennai.
+    </string>
+        <string name="match38">
+        Match No : 38 ,23rd March 2019 At 8:00 PM\n
+        \n
+        	Chennai  \t Vs \t Hyderabad \n
+        \n
+        Venue : M.A.Chidambaram Chepauk Stadium, Chennai.
+    </string>
+        <string name="match39">
+        Match No : 39 ,23rd March 2019 At 8:00 PM\n
+        \n
+        	Chennai  \t Vs \t Hyderabad \n
+        \n
+        Venue : M.A.Chidambaram Chepauk Stadium, Chennai.
+    </string>
+        <string name="match40">
+        Match No : 40 ,23rd March 2019 At 8:00 PM\n
+        \n
+        	Chennai  \t Vs \t Hyderabad \n
+        \n
+        Venue : M.A.Chidambaram Chepauk Stadium, Chennai.
+    </string>
+        <string name="match41">
+        Match No : 41 ,23rd March 2019 At 8:00 PM\n
+        \n
+        	Chennai  \t Vs \t Hyderabad \n
+        \n
+        Venue : M.A.Chidambaram Chepauk Stadium, Chennai.
+    </string>
+        <string name="match42">
+        Match No : 42 ,23rd March 2019 At 8:00 PM\n
+        \n
+        	Chennai  \t Vs \t Hyderabad \n
+        \n
+        Venue : M.A.Chidambaram Chepauk Stadium, Chennai.
+    </string>
+        <string name="match43">
+        Match No : 43 ,23rd March 2019 At 8:00 PM\n
+        \n
+        	Chennai  \t Vs \t Hyderabad \n
+        \n
+        Venue : M.A.Chidambaram Chepauk Stadium, Chennai.
+    </string>
+        <string name="match44">
+        Match No : 44 ,23rd March 2019 At 8:00 PM\n
+        \n
+        	Chennai  \t Vs \t Hyderabad \n
+        \n
+        Venue : M.A.Chidambaram Chepauk Stadium, Chennai.
+    </string>
+        <string name="match45">
+        Match No : 45 ,23rd March 2019 At 8:00 PM\n
+        \n
+        	Chennai  \t Vs \t Hyderabad \n
+        \n
+        Venue : M.A.Chidambaram Chepauk Stadium, Chennai.
+    </string>
+        <string name="match46">
+        Match No : 46 ,23rd March 2019 At 8:00 PM\n
+        \n
+        	Chennai  \t Vs \t Hyderabad \n
+        \n
+        Venue : M.A.Chidambaram Chepauk Stadium, Chennai.
+    </string>
+        <string name="match47">
+        Match No : 47 ,23rd March 2019 At 8:00 PM\n
+        \n
+        	Chennai  \t Vs \t Hyderabad \n
+        \n
+        Venue : M.A.Chidambaram Chepauk Stadium, Chennai.
+    </string>
+        <string name="match48">
+        Match No : 48 ,23rd March 2019 At 8:00 PM\n
+        \n
+        	Chennai  \t Vs \t Hyderabad \n
+        \n
+        Venue : M.A.Chidambaram Chepauk Stadium, Chennai.
+    </string>
+        <string name="match49">
+        Match No : 49 ,23rd March 2019 At 8:00 PM\n
+        \n
+        	Chennai  \t Vs \t Hyderabad \n
+        \n
+        Venue : M.A.Chidambaram Chepauk Stadium, Chennai.
+    </string>
+        <string name="match50">
+        Match No : 50 ,23rd March 2019 At 8:00 PM\n
+        \n
+        	Chennai  \t Vs \t Hyderabad \n
+        \n
+        Venue : M.A.Chidambaram Chepauk Stadium, Chennai.
+    </string>
+        <string name="match51">
+        Match No : 51 ,23rd March 2019 At 8:00 PM\n
+        \n
+        	Chennai  \t Vs \t Hyderabad \n
+        \n
+        Venue : M.A.Chidambaram Chepauk Stadium, Chennai.
+    </string>
+        <string name="match52">
+        Match No : 52 ,23rd March 2019 At 8:00 PM\n
+        \n
+        	Chennai  \t Vs \t Hyderabad \n
+        \n
+        Venue : M.A.Chidambaram Chepauk Stadium, Chennai.
+    </string>
+        <string name="match53">
+        Match No : 53 ,23rd March 2019 At 8:00 PM\n
+        \n
+        	Chennai  \t Vs \t Hyderabad \n
+        \n
+        Venue : M.A.Chidambaram Chepauk Stadium, Chennai.
+    </string>
+        <string name="match54">
+        Match No : 54 ,23rd March 2019 At 8:00 PM\n
+        \n
+        	Chennai  \t Vs \t Hyderabad \n
+        \n
+        Venue : M.A.Chidambaram Chepauk Stadium, Chennai.
+    </string>
+        <string name="match55">
+        Match No : 55 ,23rd March 2019 At 8:00 PM\n
+        \n
+        	Chennai  \t Vs \t Hyderabad \n
+        \n
+        Venue : M.A.Chidambaram Chepauk Stadium, Chennai.
+    </string>
+        <string name="match56">
+        Match No : 56 ,23rd March 2019 At 8:00 PM\n
+        \n
+        	Chennai  \t Vs \t Hyderabad \n
+        \n
+        Venue : M.A.Chidambaram Chepauk Stadium, Chennai.
+    </string>
+        <string name="match57">
+        Match No : 57 ,23rd March 2019 At 8:00 PM\n
+        \n
+        	Chennai  \t Vs \t Hyderabad \n
+        \n
+        Venue : M.A.Chidambaram Chepauk Stadium, Chennai.
+    </string>
+        <string name="match58">
+        Match No : 58 ,23rd March 2019 At 8:00 PM\n
+        \n
+        	Chennai  \t Vs \t Hyderabad \n
+        \n
+        Venue : M.A.Chidambaram Chepauk Stadium, Chennai.
+    </string>
+        <string name="match59">
+        Match No : 59 ,23rd March 2019 At 8:00 PM\n
+        \n
+        	Chennai  \t Vs \t Hyderabad \n
+        \n
+        Venue : M.A.Chidambaram Chepauk Stadium, Chennai.
+    </string>
+        <string name="match60">
+        Match No : 60 ,23rd March 2019 At 8:00 PM\n
+        \n
+        	Chennai  \t Vs \t Hyderabad \n
+        \n
+        Venue : M.A.Chidambaram Chepauk Stadium, Chennai.
+    </string>
+
+
+    <string name="msdonid">
+        IPL Career : ( 	WKP + batsman )\n\n
+        Batting :\n
+        \n
+
+        Match : 175
+        \n
+        Run : 4016
+        \n
+        Best : 79*
+        \n
+        Average : 40.16
+        \n
+        Strike rate : 138.19
+        \n
+        100 : 0
+           \n
+        50 : 20
+        \n
+        6 : 186
+        \n
+        4 : 275\n\n
+          Bowling : \n\n
+
+         WKTS : 0\n
+        BBM : 0/0	\n
+        Econ : 0
+
+
+    </string>
+    <string name="djbrabod">
+        IPL Career : (	All-rounder )\n\n
+        Batting :\n\n
+        Match : 122
+        \n
+        Run : 1379
+        \n
+        Best : 70*
+        \n
+        Average : 23.77
+        \n
+        Strike rate : 128.39
+        \n
+        50 : 5
+        \n
+        6 : 57
+        \n
+        4 : 108
+        \n\n
+        Bowling :\n\n
+        WKTS : 93\n
+        BBM : 5/16\n
+        Econ : 8.40
+
+
+
+    </string>
+    <string name="rainad">
+        IPL Career : ( 	Batsman )
+        \n\n
+         Batting : \n\n
+        Match : 176
+        \n
+        Run : 4985
+        \n
+        Best : 100*
+        \n
+        Average : 34.37
+        \n
+        Strike rate : 138.47
+        \n
+        100 : 1
+           \n
+        50 : 35
+        \n
+        6 : 185
+        \n
+        4 : 448
+        \n\n
+        Bowling :\n
+        \n
+        WKTS : 25\n
+        BBM : 2/0\n
+        Econ : 7.39
+
+
+    </string>
+    <string name="watsond">
+        IPL Career : ( 	All-rounder )
+        \n\n
+        Batting : \n\n
+
+        Match : 117
+        \n
+        Run : 3177
+        \n
+        Best : 117*
+        \n
+        Average : 32.41
+        \n
+        Strike rate : 141.20
+        \n
+        100 : 4
+           \n
+        50 : 16
+        \n
+        6 : 157
+        \n
+        4 : 301
+        \n\n
+        Bowling : \n\n
+
+         WKTS : 92\n
+        BBM : 4/29\n
+        Econ : 7.93
+
+
+    </string>
+    <string name="jadejad">
+           IPL Career : ( 	All-rounder )
+        \n\n
+        Batting : \n\n
+
+        Match : 154
+        \n
+        Run : 1821
+        \n
+        Best : 48
+        \n
+        Average : 23.64
+        \n
+        Strike rate : 122.70
+        \n
+        100 : 0
+           \n
+        50 : 0
+        \n
+        6 : 61
+        \n
+        4 : 128
+        \n\n
+        Bowling : \n\n
+
+         WKTS : 93\n
+        BBM : 5/16\n
+        Econ : 7.76
+
+
+    </string>
+    <string name="samd">
+        IPL Career : ( 	Batsman )
+        \n\n
+        Batting : \n\n
+        Match : 21
+        \n
+        Run : 334
+        \n
+        Best : 56
+        \n
+        Average : 18.55
+        \n
+        Strike rate : 135.77
+        \n
+        100 : 0
+           \n
+        50 : 3
+        \n
+        6 : 10
+        \n
+        4 : 31\n\n
+          Bowling : \n\n
+
+         WKTS : 0\n
+        BBM : 0/0	\n
+        Econ : 0
+
+
+    </string>
+    <string name="raidud">
+
+        IPL Career : ( 	WKP + batsman )\n\n
+        Batting :\n
+        \n
+
+        Match : 130
+        \n
+        Run : 3018
+        \n
+        Best : 100*
+        \n
+        Average : 29.30
+        \n
+        Strike rate : 130.25
+        \n
+        100 : 1
+           \n
+        50 : 17
+        \n
+        6 : 113
+        \n
+        4 : 258\n\n
+          Bowling : \n\n
+
+         WKTS : 0\n
+        BBM : 0/0	\n
+        Econ : 0
+
+    </string>
+    <string name="davidd">
+           IPL Career : ( 	All-rounder )
+        \n\n
+        Batting : \n\n
+
+        Match : 3
+        \n
+        Run : 0
+        \n
+        Best : 0*
+        \n
+        Average : 0
+        \n
+        Strike rate : 0
+        \n
+        100 : 0
+           \n
+        50 : 0
+        \n
+        6 : 0
+        \n
+        4 : 0
+        \n\n
+        Bowling : \n\n
+
+         WKTS : 2\n
+        BBM : 1/24\n
+        Econ : 9.50
+
+
+
+
+    </string>
+    <string name="chahard">
+           IPL Career : ( 	Bowler )
+        \n\n
+        Batting : \n\n
+
+        Match :17
+        \n
+        Run : 64
+        \n
+        Best : 39
+        \n
+        Average : 16.00
+        \n
+        Strike rate : 182.85
+        \n
+        100 : 0
+           \n
+        50 : 0
+        \n
+        6 : 6
+        \n
+        4 : 1
+        \n\n
+        Bowling : \n\n
+
+         WKTS : 11\n
+        BBM : 3/15	\n
+        Econ : 35.72
+
+
+
+
+    </string>
+    <string name="dud">
+         IPL Career : ( Batsman )
+        \n\n
+        Batting : \n\n
+
+        Match : 59
+        \n
+        Run : 1457
+        \n
+        Best : 73
+        \n
+        Average : 30.35
+        \n
+        Strike rate : 127.69
+        \n
+        100 : 0
+           \n
+        50 : 9
+        \n
+        6 : 44
+        \n
+        4 : 127
+        \n\n
+        Bowling : \n\n
+
+         WKTS : 0\n
+        BBM : 0/0	\n
+        Econ : 16.00
+
+
+    </string>
+    <string name="muralid">
+          IPL Career : ( Batsman )
+        \n\n
+        Batting : \n\n
+
+        Match : 101
+        \n
+        Run : 2523
+        \n
+        Best : 127
+        \n
+        Average : 26.28
+        \n
+        Strike rate : 123.37
+        \n
+        100 : 2
+           \n
+        50 : 13
+        \n
+        6 : 90
+        \n
+        4 : 237
+        \n\n
+        Bowling : \n\n
+
+         WKTS : 0\n
+        BBM : 0/0	\n
+        Econ : 8.16
+
+
+    </string>
+    <string name="taherd">
+         IPL Career : ( Bowler )
+        \n\n
+        Batting : \n\n
+
+        Match : 38
+        \n
+        Run : 20
+        \n
+        Best : 5
+        \n
+        Average : 5.00
+        \n
+        Strike rate : 74.07
+        \n
+        100 : 0
+           \n
+        50 : 0
+        \n
+        6 : 0
+        \n
+        4 : 3
+        \n\n
+        Bowling : \n\n
+
+         WKTS : 53\n
+        BBM : 4/28	\n
+        Econ : 8.42
+
+
+    </string>
+    <string name="kmasifd">
+          IPL Career : ( 	All-rounder )
+        \n\n
+        Batting : \n\n
+
+        Match : 2
+        \n
+        Run : 0
+        \n
+        Best : 0*
+        \n
+        Average : 0
+        \n
+        Strike rate : 0
+        \n
+        100 : 0
+           \n
+        50 : 0
+        \n
+        6 : 0
+        \n
+        4 : 0
+        \n\n
+        Bowling : \n\n
+
+         WKTS : 3\n
+        BBM : 2/43\n
+        Econ : 12.50
+
+
+    </string>
+    <string name="ngidid">
+          IPL Career : ( Bowler )
+        \n\n
+        Batting : \n\n
+
+        Match : 7
+        \n
+        Run : 0
+        \n
+        Best : 0*
+        \n
+        Average : 0
+        \n
+        Strike rate : 0
+        \n
+        100 : 0
+           \n
+        50 : 0
+        \n
+        6 : 0
+        \n
+        4 : 0
+        \n\n
+        Bowling : \n\n
+
+         WKTS : 11\n
+        BBM : 4/10	\n
+        Econ : 6.00
+
+
+    </string>
+    <string name="thakurd">
+           IPL Career : ( Bowler )
+        \n\n
+        Batting : \n\n
+
+        Match : 26
+        \n
+        Run : 22
+        \n
+        Best : 15*
+        \n
+        Average : 7.33
+        \n
+        Strike rate : 157.14
+        \n
+        100 : 0
+           \n
+        50 : 0
+        \n
+        6 : 0
+        \n
+        4 : 4
+        \n\n
+        Bowling : \n\n
+
+         WKTS : 28\n
+        BBM : 3/19	\n
+        Econ : 8.92
+
+
+    </string>
+    <string name="santnerd">
+       IPL Career : ( 	All-rounder )
+        \n\n
+        Batting : \n\n
+
+        Match : 0
+        \n
+        Run : 0
+        \n
+        Best : 0*
+        \n
+        Average : 0
+        \n
+        Strike rate : 0
+        \n
+        100 : 0
+           \n
+        50 : 0
+        \n
+        6 : 0
+        \n
+        4 : 0
+        \n\n
+        Bowling : \n\n
+
+         WKTS : 0\n
+        BBM : 0\n
+        Econ : 0
+
+
+    </string>
+    <string name="kaderd">
+            IPL Career : ( Batsman )
+        \n\n
+        Batting : \n\n
+
+        Match : 65
+        \n
+        Run : 917
+        \n
+        Best : 69
+        \n
+        Average : 24.13
+        \n
+        Strike rate : 134.06
+        \n
+        100 : 0
+           \n
+        50 : 3
+        \n
+        6 : 35
+        \n
+        4 : 73
+        \n\n
+        Bowling : \n\n
+
+         WKTS : 0\n
+        BBM : 0/0	\n
+        Econ : 0
+
+
+    </string>
+    <string name="shoreyd">
+          IPL Career : ( Batsman )
+        \n\n
+        Batting : \n\n
+
+        Match : 1
+        \n
+        Run : 8
+        \n
+        Best : 8
+        \n
+        Average : 8.00
+        \n
+        Strike rate : 88.88
+        \n
+        100 : 0
+           \n
+        50 : 0
+        \n
+        6 : 1
+        \n
+        4 : 0
+        \n\n
+        Bowling : \n\n
+
+         WKTS : 0\n
+        BBM : 0/0	\n
+        Econ : 0
+
+
+    </string>
+    <string name="harbajand">
+       IPL Career : ( 	All-rounder )
+        \n\n
+        Batting : \n\n
+
+        Match : 149
+        \n
+        Run : 800
+        \n
+        Best : 64
+        \n
+        Average : 15.68
+        \n
+        Strike rate : 137.22
+        \n
+        100 : 0
+           \n
+        50 : 1
+        \n
+        6 : 39
+        \n
+        4 : 78
+        \n\n
+        Bowling : \n\n
+
+         WKTS : 134\n
+        BBM : 5/18\n
+        Econ : 7.05
+
+    </string>
+    <string name="karnd">
+           IPL Career : ( 	All-rounder )
+        \n\n
+        Batting : \n\n
+
+        Match : 61
+        \n
+        Run : 316
+        \n
+        Best : 39*
+        \n
+        Average : 15.80
+        \n
+        Strike rate : 116.60
+        \n
+        100 : 0
+           \n
+        50 : 0
+        \n
+        6 : 14
+        \n
+        4 : 18
+        \n\n
+        Bowling : \n\n
+
+         WKTS : 53\n
+        BBM : 4/16\n
+        Econ : 7.76
+
+
+    </string>
+
+    <string name="rohitd">
+           IPL Career : ( 	All-rounder )
+        \n\n
+        Batting : \n\n
+
+        Match : 173
+        \n
+        Run : 4493
+        \n
+        Best : 109*
+        \n
+        Average : 31.86
+        \n
+        Strike rate : 131.02
+        \n
+        100 : 1
+           \n
+        50 : 34
+        \n
+        6 : 184
+        \n
+        4 : 379
+        \n\n
+        Bowling : \n\n
+
+         WKTS : 15\n
+        BBM : 4/6\n
+        Econ : 7.95
+
+
+    </string>
+
+    <string name="mustafizurd">
+           IPL Career : ( Bowler )
+        \n\n
+        Batting : \n\n
+
+        Match : 24
+        \n
+        Run : 1
+        \n
+        Best : 1
+        \n
+        Average : 1.00
+        \n
+        Strike rate : 33.33
+        \n
+        100 : 0
+           \n
+        50 : 0
+        \n
+        6 : 0
+        \n
+        4 : 0
+        \n\n
+        Bowling : \n\n
+
+         WKTS : 24\n
+        BBM : 3/16\n
+        Econ : 7.51
+
+
+    </string>
+
+    <string name="hardikd">
+           IPL Career : ( 	All-rounder )
+        \n\n
+        Batting : \n\n
+
+        Match : 50
+        \n
+        Run : 666
+        \n
+        Best : 61*
+        \n
+        Average : 23.78
+        \n
+        Strike rate : 138.75
+        \n
+        100 : 0
+           \n
+        50 : 2
+        \n
+        6 : 39
+        \n
+        4 : 44
+        \n\n
+        Bowling : \n\n
+
+         WKTS : 28\n
+        BBM : 3/24\n
+        Econ : 9.01
+
+
+    </string>
+    <string name="kierond">
+           IPL Career : ( 	All-rounder )
+        \n\n
+        Batting : \n\n
+
+        Match : 50
+        \n
+        Run : 666
+        \n
+        Best : 61*
+        \n
+        Average : 23.78
+        \n
+        Strike rate : 138.75
+        \n
+        100 : 0
+           \n
+        50 : 2
+        \n
+        6 : 39
+        \n
+        4 : 44
+        \n\n
+        Bowling : \n\n
+
+         WKTS : 28\n
+        BBM : 3/24\n
+        Econ : 9.01
+
+
+    </string>
+    <string name="stadium1">
+
+
+       \t\t\t\t\t\t\t\tBangalore\n\n
+        M. Chinnaswamy Stadium\n\n
+       Royal Challengers Bangalore\n\n
+          Capacity: 35,000\n\n
+
+    </string>
+    <string name="stadium2">
+
+\t\t\t\t\t\t\tDelhi\n\n
+	Feroz Shah Kotla Stadium\n\n
+        Delhi Capitals\n\n
+	Capacity: 41,000\n\n
+    </string>
+    <string name="stadium3">
+
+
+\t\t\t\t\t\t\tHyderabad\n\n
+        	Rajiv Gandhi International Stadium\n\n
+	 Sunrisers Hyderabad\n\n
+
+	Capacity: 55,000\n\n
+    </string>
+    <string name="stadium4">
+\t\t\t\t\t\t\tMumbai\n\n
+  Wankhede Stadium\n\n
+Mumbai Indians and
+Playoffs\n\n
+Capacity: 33,000\n\n
+    </string>
+    <string name="stadium5">
+
+
+\t\t\t\t\t\t\tChennai\n\n
+        	M. A. Chidambaram Stadium\n\n
+		     Chennai Super Kings\n\n
+             Capacity: 39,000\n\n
+    </string>
+    <string name="stadium6">
+
+
+ \t\t\t\t\t\t\tMohali\n
+Punjab Cricket Association IS Bindra Stadium\n\n
+	Kings XI Punjab\n\n
+        Capacity: 26,000\n\n
+    </string>
+    <string name="stadium">
+
+
+\t\t\t\t\t\t\tKolkata	\n\n
+        Eden Gardens Stadiumn\n\n
+       Kolkata Knight Riders\n\n
+        Capacity: 68,000\n\n
+    </string>
+    <string name="stadium8">
+
+
+\t\t\t\t\t\t\tJaipur\n\n
+        Sawai Mansingh Stadium\n\n
+        Rajasthan Royals\n\n
+        Capacity: 25,000\n\n
+    </string>
+    <string name="winner1">
+
+
+       Season(2008)\n\n
+    Winner : Rajasthan Royals\n\n
+         RAJASTHAN \t Vs \tCHENNAI\n\n
+      Runner-up : Chennai Super Kings\n\n
+    </string>
+    <string name="winner2">
+
+
+       Season(2009)\n\n
+    Winner : Deccan Chargers\n\n
+         DECCAN \t Vs \tBANGALORE\n\n
+      Runner-up : Royal Challengers Bangalore\n\n
+    </string>
+    <string name="winner3">
+
+
+       Season(2010)\n\n
+    Winner : Chennai Super Kings\n\n
+         CHENNAI \t Vs \tMUMBAI\n\n
+      Runner-up : Mumbai Indians\n\n
+    </string>
+    <string name="winner4">
+
+
+       Season(2011)\n\n
+    Winner : Chennai Super Kings\n\n
+         CHENNAI \t Vs \tBANGALORE\n\n
+      Runner-up : Royal Challengers Bangalore\n\n
+    </string>
+
+    <string name="winner5">
+
+
+       Season(2012)\n\n
+    Winner : Kolkata Knight Riders\n\n
+         KOLKATA \t Vs \t CHENNAI\n\n
+      Runner-up :Chennai Super Kings\n\n
+    </string>
+
+    <string name="winner6">
+
+
+       Season(2013)\n\n
+    Winner : Mumbai Indians\n\n
+         MUMBAI \t Vs \t CHENNAI\n\n
+      Runner-up :Chennai Super Kings\n\n
+    </string> <string name="winner7">
+
+
+       Season(2014)\n\n
+    Winner : Kolkata Knight Riders\n\n
+         KOLKATA \t Vs \t PUNJAB\n\n
+      Runner-up :Kings XI Punjab\n\n
+    </string>
+    <string name="winner8">
+
+
+       Season(2015)\n\n
+    Winner : Mumbai Indians\n\n
+         MUMBAI \t Vs \t CHENNAI\n\n
+      Runner-up :Chennai Super Kings\n\n
+    </string>
+    <string name="winner9">
+
+
+       Season(2016)\n\n
+    Winner : Sunrisers Hyderabad\n\n
+         HYDERABAD \t Vs \t BANGALORE\n\n
+      Runner-up :Royal Challengers Bangalore\n\n
+    </string>
+    <string name="winner10">
+
+
+       Season(2017)\n\n
+    Winner : Mumbai Indians\n\n
+         MUMBAI \t Vs \t PUNE\n\n
+      Runner-up :Rising Pune Supergiant\n\n
+    </string>
+
+    <string name="winner11">
+
+
+       Season(2018)\n\n
+    Winner : Chennai Super Kings\n\n
+         CHENNAI \t Vs \t HYDERABAD\n\n
+      Runner-up : Sunrisers Hyderabad\n\n
+    </string>
+
+    <string name="aboutus">
+        About Us
+    </string>
+    <string name="exit">
+     Exit
+    </string>
+    <string name="roni">
+     Roni
+    </string>
+    <string name="ronid">
+        Developer Info : \n\n\n
+        Name : Saiful Islam Roni\n\n
+        Email : appsroni@gmail.com\n\n
+        Website : www.helloroni.com\n\n
+    </string>
+    <string name="banner_ad_unit_id">ca-app-pub-4896439709059883/2237817507</string>
+
+</resources>
