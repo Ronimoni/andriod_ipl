@@ -97,7 +97,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 Intent p = new Intent(MainActivity.this, winners.class);
                 startActivity(p);
-
+s
             }
         });
     }
